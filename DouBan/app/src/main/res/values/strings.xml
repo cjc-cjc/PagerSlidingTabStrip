@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WrpTest</string>
+    <string name="user">用户名：</string>
+    <string name="password">密》码：</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pager_name">
+        <item>人物</item>
+        <item>动物</item>
+        <item>植物</item>
+        <item>飞机</item>
+    </string-array>
+</resources>
